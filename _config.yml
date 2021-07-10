@@ -1,0 +1,17 @@
+# Base configs
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "Photographs by Rahul Ranjan"
+subtitle: "A chapter from my life"
+author:  "Rahul Ranjan"
+header:
+ title: "Shots"
+ subtitle: "by Rahul Ranjan"
+footer:
+ name: "Hey there, I am Rahul Ranjan "
+ bio: "Just a human"
+social_urls:
+  instagram: "https://www.instagram.com/rahulranjanphotography/"
+  github: "https://github.com/rahulkiit"
